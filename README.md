@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center"> 
   Hey,
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
