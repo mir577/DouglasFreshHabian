@@ -17,7 +17,7 @@
 </a>
 
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android Debug Bridge" width="600" height="500" />
+
 
 
 
