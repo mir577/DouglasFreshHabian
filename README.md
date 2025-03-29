@@ -5,3 +5,8 @@
 </a>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,docker,github,linux,ubuntu,bash,androidstudio" />
+  </a>
+</p>
