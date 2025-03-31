@@ -19,6 +19,7 @@
 </a>
 </h1>
 
+## [LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/7b4l7akdf3): Linux Professional Institute  [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/mbk48breps): Linux Professional Institue 
 
 
 
@@ -28,7 +29,10 @@
 
 
 
+### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
+</h1> 
 
+<h1 align="center"> 
+https://www.youtube.com/@DouglasHabian-tq5ck 
 
-<!-- Red Color F70000 -->
-<!-- Fresh Forensics, LLC 2025 -->
+<!-- dfresh@tutanota.com Fresh Forensics, LLC 2025 -->
