@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://github.com/DouglasFreshHabian/DouglasFreshHabian/blob/main/graphics/front-page-github-header-image.png)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,debian,less,docker,mint,github,raspberrypi,regex,linux,ubuntu,vim,bash,androidstudio" />
