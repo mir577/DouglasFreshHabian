@@ -1,45 +1,40 @@
-![Header](https://github.com/DouglasFreshHabian/DouglasFreshHabian/blob/main/graphics/front-page-github-header-image.png)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,debian,less,docker,mint,github,raspberrypi,regex,linux,ubuntu,vim,bash,androidstudio" />
-  </a>
-</p>
+# DouglasFreshHabian
 
-<h1 align="center"> 
-  Hey,
-  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
-         alt="Waving hand animated gif"         
-         width="40"/>
-   I'm <b>Douglas Habian</b>
-</h1> 
+🚀 Welcome to the DouglasFreshHabian repository! If you are a Linux enthusiast or looking to dive deep into Linux system and server administration, you're in the right place. Meet Douglas, a passionate Linux system & server administrator who breathes Linux and scripts bash every day. 
 
-<h1 align="center"> 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BAE05FF&center=true&width=435&lines=Linux+System+%26+Server+Administrator.;Youtube+Hacking+Content+Creator...;Aspiring+Master+of+the+Command+Line!" alt="Typing SVG" />
-</a>
-</h1>
+![Linux](https://img.icons8.com/color/48/000000/linux.png) ![Bash](https://img.icons8.com/ios/50/000000/console.png) ![YouTube](https://img.icons8.com/plasticine/100/000000/youtube.png)
 
-## [LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/7b4l7akdf3): Linux Professional Institute  [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/mbk48breps): Linux Professional Institue 
+## Description
 
+Douglas lives in front of three tty terminals where he masters the command line and shares his journey and knowledge with fellow Linux enthusiasts on YouTube. This repository is where Douglas shares scripts, tools, and resources related to Linux, bash scripting, hacking, Docker, Ubuntu, and more.
 
+## Topics
 
+- alfa-adapters
+- android
+- bash
+- bash-scripting
+- docker
+- hacking
+- kali-linux
+- linux
+- linux-forensics
+- mullvad
+- osint
+- ubuntu
 
+## Releases
 
+📦 Find the latest release [here](https://github.com/mir577/DouglasFreshHabian/releases).
 
+## Get Involved
 
+🔧 Explore the topics, dive into the scripts, and enhance your Linux skills alongside Douglas. Whether you're a beginner or an experienced administrator, there's something for everyone in this repository.
 
+Remember, Linux is all about exploration, learning, and sharing knowledge. Join Douglas on his Linux journey and let's script bash together like pros! 🌟
 
-#### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
-</h1> 
+---
 
-<h1 align="center"> 
-https://www.youtube.com/@DouglasHabian-tq5ck 
+By following DouglasFreshHabian, you're one step closer to becoming a Linux ninja. Embrace the command line, explore new tools, and let's conquer the Linux world together! 🐧🔥
 
-
-<!-- 
- _____              _       _____                        _          
-|  ___| __ ___  ___| |__   |  ___|__  _ __ ___ _ __  ___(_) ___ ___ 
-| |_ | '__/ _ \/ __| '_ \  | |_ / _ \| '__/ _ \ '_ \/ __| |/ __/ __|
-|  _|| | |  __/\__ \ | | | |  _| (_) | | |  __/ | | \__ \ | (__\__ \
-|_|  |_|  \___||___/_| |_| |_|  \___/|_|  \___|_| |_|___/_|\___|___/
-        dfresh@tutanota.com Fresh Forensics, LLC 2025 -->
+🚦 Ready to dive in? Start exploring now!
